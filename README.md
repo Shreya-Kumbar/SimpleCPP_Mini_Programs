@@ -9,7 +9,7 @@
 - Install the [Simple CodeBlocks](https://www.cse.iitb.ac.in/~ranade/simplecpp/) and set it up and you are ready to run the programs.✨
 ---
 
-## 📂Programs Included:
+## Programs Included :
 
 ### 1.🌲Tree Design
 - Draws a recursive tree pattern using SimpleCPP.
