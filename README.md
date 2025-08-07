@@ -16,4 +16,7 @@
 
 ### 2.🌸Plate Border
 - Draws a Plate Border design that looks like a flower.
+
+### 3.⚾Projectile Motion
+- Depicts the projectile trajectory on throwing a ball.
 ---
