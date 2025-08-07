@@ -13,3 +13,7 @@
 
 ### 1.🌲Tree Design
 - Draws a recursive tree pattern using SimpleCPP.
+
+### 2.🌸Plate Border
+- Draws a Plate Border design that looks like a flower.
+---
