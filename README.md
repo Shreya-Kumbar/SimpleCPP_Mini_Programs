@@ -1,6 +1,6 @@
-## 🌟SimpleCPP Programs
+## 🌟SimpleCPP Mini Programs
 
-- This repository contains my programs of SimpleCPP.
+- This repository contains my mini C++ programs using SimpleCPP Library.
 - The programs are written using C++ and turtleSimulator.
 ---
 
@@ -19,4 +19,7 @@
 
 ### 3.⚾Projectile Motion
 - Depicts the projectile trajectory on throwing a ball.
+
+### 4.🔢Finding Pythagorean Triples
+- Finds all Pythagorean Triples less than given input number.
 ---
